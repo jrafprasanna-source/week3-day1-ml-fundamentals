@@ -1,0 +1,11 @@
+1. What is slope?
+
+Slope is represented by model coefficients. It shows how much marks change when a feature increases by one unit.
+
+2. What is intercept?
+
+Intercept is the predicted value when all features are zero.
+
+3. What do they mean?
+
+Slope explains the relationship between features and marks. Intercept is the starting point of the regression line.
